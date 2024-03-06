@@ -1,0 +1,82 @@
+Added Component: Designator=ESP0(ESP-32-BB-Footprint-1)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found MODULE_EK-TM4C123GXL
+Added Pin To Net: NetName=5V Pin=ESP0-1
+Added Pin To Net: NetName=CRASH Pin=ESP0-2
+Added Pin To Net: NetName=VBAT Pin=ESP0-3
+Added Pin To Net: NetName=LBO Pin=ESP0-4
+Added Pin To Net: NetName=CPGND Pin=ESP0-5
+Added Pin To Net: NetName=CRG3 Pin=ESP0-6
+Added Pin To Net: NetName=CRG2 Pin=ESP0-7
+Added Pin To Net: NetName=CRG1 Pin=ESP0-8
+Added Pin To Net: NetName=CRG0 Pin=ESP0-9
+Added Pin To Net: NetName=CRG_BUTT Pin=ESP0-10
+Added Pin To Net: NetName=CPGND Pin=ESP0-11
+Added Pin To Net: NetName=CPGND Pin=ESP0-12
+Added Pin To Net: NetName=CPGND Pin=ESP0-13
+Added Pin To Net: NetName=CPGND Pin=ESP0-14
+Added Pin To Net: NetName=5V Pin=ESP0-15
+Added Pin To Net: NetName=CPGND Pin=ESP0-16
+Added Pin To Net: NetName=CPGND Pin=ESP0-17
+Added Pin To Net: NetName=CPGND Pin=ESP0-18
+Added Pin To Net: NetName=CPGND Pin=ESP0-19
+Added Pin To Net: NetName=CPGND Pin=ESP0-20
+Added Pin To Net: NetName=AMP_MUTE Pin=ESP0-21
+Added Pin To Net: NetName=AMP_SCK Pin=ESP0-22
+Added Pin To Net: NetName=AMP_DATA Pin=ESP0-23
+Added Pin To Net: NetName=AMP_CS Pin=ESP0-24
+Added Pin To Net: NetName=I2S_WS Pin=ESP0-25
+Added Pin To Net: NetName=I2S_DATA Pin=ESP0-26
+Added Pin To Net: NetName=I2S_CLK Pin=ESP0-27
+Added Pin To Net: NetName=CPGND Pin=ESP0-28
+Added Pin To Net: NetName=CPGND Pin=ESP0-29
+Added Pin To Net: NetName=CPGND Pin=ESP0-30
+Add Pin To Net: Unknown Pin: Pin TIVA-J1_1
+Add Pin To Net: Unknown Pin: Pin TIVA-J1_2
+Add Pin To Net: Unknown Pin: Pin TIVA-J1_3
+Add Pin To Net: Unknown Pin: Pin TIVA-J1_4
+Add Pin To Net: Unknown Pin: Pin TIVA-J1_5
+Add Pin To Net: Unknown Pin: Pin TIVA-J1_6
+Add Pin To Net: Unknown Pin: Pin TIVA-J1_7
+Add Pin To Net: Unknown Pin: Pin TIVA-J1_8
+Add Pin To Net: Unknown Pin: Pin TIVA-J1_9
+Add Pin To Net: Unknown Pin: Pin TIVA-J1_10
+Add Pin To Net: Unknown Pin: Pin TIVA-J2_1
+Add Pin To Net: Unknown Pin: Pin TIVA-J2_2
+Add Pin To Net: Unknown Pin: Pin TIVA-J2_3
+Add Pin To Net: Unknown Pin: Pin TIVA-J2_4
+Add Pin To Net: Unknown Pin: Pin TIVA-J2_5
+Add Pin To Net: Unknown Pin: Pin TIVA-J2_6
+Add Pin To Net: Unknown Pin: Pin TIVA-J2_7
+Add Pin To Net: Unknown Pin: Pin TIVA-J2_8
+Add Pin To Net: Unknown Pin: Pin TIVA-J2_9
+Add Pin To Net: Unknown Pin: Pin TIVA-J2_10
+Add Pin To Net: Unknown Pin: Pin TIVA-J3_1
+Add Pin To Net: Unknown Pin: Pin TIVA-J3_2
+Add Pin To Net: Unknown Pin: Pin TIVA-J3_3
+Add Pin To Net: Unknown Pin: Pin TIVA-J3_4
+Add Pin To Net: Unknown Pin: Pin TIVA-J3_5
+Add Pin To Net: Unknown Pin: Pin TIVA-J3_6
+Add Pin To Net: Unknown Pin: Pin TIVA-J3_7
+Add Pin To Net: Unknown Pin: Pin TIVA-J3_8
+Add Pin To Net: Unknown Pin: Pin TIVA-J3_9
+Add Pin To Net: Unknown Pin: Pin TIVA-J3_10
+Add Pin To Net: Unknown Pin: Pin TIVA-J4_1
+Add Pin To Net: Unknown Pin: Pin TIVA-J4_2
+Add Pin To Net: Unknown Pin: Pin TIVA-J4_3
+Add Pin To Net: Unknown Pin: Pin TIVA-J4_4
+Add Pin To Net: Unknown Pin: Pin TIVA-J4_5
+Add Pin To Net: Unknown Pin: Pin TIVA-J4_6
+Add Pin To Net: Unknown Pin: Pin TIVA-J4_7
+Add Pin To Net: Unknown Pin: Pin TIVA-J4_8
+Add Pin To Net: Unknown Pin: Pin TIVA-J4_9
+Add Pin To Net: Unknown Pin: Pin TIVA-J4_10
+Added Member To Class: ClassName=MAIN_SCH Member=Component ESP0 ESP-32-BB
+Add Class Member: Failed to add class member : Component TIVA EK-TM4C123GXL

@@ -1,0 +1,68 @@
+Removed Pin From Net: NetName=AGND Pin=ADREG_C2-1
+Removed Pin From Net: NetName=A+5 Pin=ADREG_C2-2
+Removed Member From Class: ClassName=PCM Member=ADREG_C2
+Change Component Footprint: Designator=AREG_C1 Old Footprint=CAP_CL05_SAM New Footprint=CAP_CL05_SAM
+Change Component Footprint: Designator=DREG_C1 Old Footprint=CAP_CL05_SAM New Footprint=CAP_CL05_SAM
+Change Managed Component Library Link : Designator=AREG_C1 Old VaultGUID=E6AC3BD4-25A4-4748-AC67-3E04A9BAE261 New VaultGUID=E6AC3BD4-25A4-4748-AC67-3E04A9BAE261 Old ItemGUID=3E6498D9-D30D-4F49-8A84-27CFBB95EE8E New ItemGUID=3E6498D9-D30D-4F49-8A84-27CFBB95EE8E Old RevisionGUID=6ab32500-b893-4eb6-a65b-ab9cdcf22d29 New RevisionGUID=3aaab477-fb20-4d91-ac61-016e0494b3d0
+Change Managed Component Library Link : Designator=DREG_C1 Old VaultGUID=E6AC3BD4-25A4-4748-AC67-3E04A9BAE261 New VaultGUID=E6AC3BD4-25A4-4748-AC67-3E04A9BAE261 Old ItemGUID=3E6498D9-D30D-4F49-8A84-27CFBB95EE8E New ItemGUID=3E6498D9-D30D-4F49-8A84-27CFBB95EE8E Old RevisionGUID=6ab32500-b893-4eb6-a65b-ab9cdcf22d29 New RevisionGUID=3aaab477-fb20-4d91-ac61-016e0494b3d0
+Added Component: Designator=AREG_C2(CAP_CL05_SAM)
+Add component (AddParameter): Name = "Capacitor Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "CL05A105KO5NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Samsung"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "CL05A105KO5NNNC.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found MODULE_EK-TM4C123GXL
+Added Pin To Net: NetName=AGND Pin=AREG_C2-1
+Added Pin To Net: NetName=A+5 Pin=AREG_C2-2
+Add Pin To Net: Unknown Pin: Pin TIVA-J1_1
+Add Pin To Net: Unknown Pin: Pin TIVA-J1_2
+Add Pin To Net: Unknown Pin: Pin TIVA-J1_3
+Add Pin To Net: Unknown Pin: Pin TIVA-J1_4
+Add Pin To Net: Unknown Pin: Pin TIVA-J1_5
+Add Pin To Net: Unknown Pin: Pin TIVA-J1_6
+Add Pin To Net: Unknown Pin: Pin TIVA-J1_7
+Add Pin To Net: Unknown Pin: Pin TIVA-J1_8
+Add Pin To Net: Unknown Pin: Pin TIVA-J1_9
+Add Pin To Net: Unknown Pin: Pin TIVA-J1_10
+Add Pin To Net: Unknown Pin: Pin TIVA-J2_1
+Add Pin To Net: Unknown Pin: Pin TIVA-J2_2
+Add Pin To Net: Unknown Pin: Pin TIVA-J2_3
+Add Pin To Net: Unknown Pin: Pin TIVA-J2_4
+Add Pin To Net: Unknown Pin: Pin TIVA-J2_5
+Add Pin To Net: Unknown Pin: Pin TIVA-J2_6
+Add Pin To Net: Unknown Pin: Pin TIVA-J2_7
+Add Pin To Net: Unknown Pin: Pin TIVA-J2_8
+Add Pin To Net: Unknown Pin: Pin TIVA-J2_9
+Add Pin To Net: Unknown Pin: Pin TIVA-J2_10
+Add Pin To Net: Unknown Pin: Pin TIVA-J3_1
+Add Pin To Net: Unknown Pin: Pin TIVA-J3_2
+Add Pin To Net: Unknown Pin: Pin TIVA-J3_3
+Add Pin To Net: Unknown Pin: Pin TIVA-J3_4
+Add Pin To Net: Unknown Pin: Pin TIVA-J3_5
+Add Pin To Net: Unknown Pin: Pin TIVA-J3_6
+Add Pin To Net: Unknown Pin: Pin TIVA-J3_7
+Add Pin To Net: Unknown Pin: Pin TIVA-J3_8
+Add Pin To Net: Unknown Pin: Pin TIVA-J3_9
+Add Pin To Net: Unknown Pin: Pin TIVA-J3_10
+Add Pin To Net: Unknown Pin: Pin TIVA-J4_1
+Add Pin To Net: Unknown Pin: Pin TIVA-J4_2
+Add Pin To Net: Unknown Pin: Pin TIVA-J4_3
+Add Pin To Net: Unknown Pin: Pin TIVA-J4_4
+Add Pin To Net: Unknown Pin: Pin TIVA-J4_5
+Add Pin To Net: Unknown Pin: Pin TIVA-J4_6
+Add Pin To Net: Unknown Pin: Pin TIVA-J4_7
+Add Pin To Net: Unknown Pin: Pin TIVA-J4_8
+Add Pin To Net: Unknown Pin: Pin TIVA-J4_9
+Add Pin To Net: Unknown Pin: Pin TIVA-J4_10
+Added Member To Class: ClassName=PCM Member=Component AREG_C2 1uF 0402 Ceramic
+Add Class Member: Failed to add class member : Component TIVA EK-TM4C123GXL

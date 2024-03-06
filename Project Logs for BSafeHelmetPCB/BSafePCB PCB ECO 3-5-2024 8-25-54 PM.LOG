@@ -1,0 +1,92 @@
+Change Component Designator: OldDesignator= NewDesignator=DAC_C7
+Added Component: Designator=DAC_R3(RESC1608X55X30LL20T10)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=DAC_R4(RESC1608X55X30LL20T10)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=DAC_R5(RESC1608X55X30LL20T10)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found MODULE_EK-TM4C123GXL
+Added Pin To Net: NetName=I2S_CLK Pin=DAC_R3-1
+Added Pin To Net: NetName=I2S_DATA Pin=DAC_R4-1
+Added Pin To Net: NetName=I2S_WS Pin=DAC_R5-1
+Added Pin To Net: NetName=CPGND Pin=I2S DAC-12
+Add Pin To Net: Unknown Pin: Pin TIVA-J1_1
+Add Pin To Net: Unknown Pin: Pin TIVA-J1_2
+Add Pin To Net: Unknown Pin: Pin TIVA-J1_3
+Add Pin To Net: Unknown Pin: Pin TIVA-J1_4
+Add Pin To Net: Unknown Pin: Pin TIVA-J1_5
+Add Pin To Net: Unknown Pin: Pin TIVA-J1_6
+Add Pin To Net: Unknown Pin: Pin TIVA-J1_7
+Add Pin To Net: Unknown Pin: Pin TIVA-J1_8
+Add Pin To Net: Unknown Pin: Pin TIVA-J1_9
+Add Pin To Net: Unknown Pin: Pin TIVA-J1_10
+Add Pin To Net: Unknown Pin: Pin TIVA-J2_1
+Add Pin To Net: Unknown Pin: Pin TIVA-J2_2
+Add Pin To Net: Unknown Pin: Pin TIVA-J2_3
+Add Pin To Net: Unknown Pin: Pin TIVA-J2_4
+Add Pin To Net: Unknown Pin: Pin TIVA-J2_5
+Add Pin To Net: Unknown Pin: Pin TIVA-J2_6
+Add Pin To Net: Unknown Pin: Pin TIVA-J2_7
+Add Pin To Net: Unknown Pin: Pin TIVA-J2_8
+Add Pin To Net: Unknown Pin: Pin TIVA-J2_9
+Add Pin To Net: Unknown Pin: Pin TIVA-J2_10
+Add Pin To Net: Unknown Pin: Pin TIVA-J3_1
+Add Pin To Net: Unknown Pin: Pin TIVA-J3_2
+Add Pin To Net: Unknown Pin: Pin TIVA-J3_3
+Add Pin To Net: Unknown Pin: Pin TIVA-J3_4
+Add Pin To Net: Unknown Pin: Pin TIVA-J3_5
+Add Pin To Net: Unknown Pin: Pin TIVA-J3_6
+Add Pin To Net: Unknown Pin: Pin TIVA-J3_7
+Add Pin To Net: Unknown Pin: Pin TIVA-J3_8
+Add Pin To Net: Unknown Pin: Pin TIVA-J3_9
+Add Pin To Net: Unknown Pin: Pin TIVA-J3_10
+Add Pin To Net: Unknown Pin: Pin TIVA-J4_1
+Add Pin To Net: Unknown Pin: Pin TIVA-J4_2
+Add Pin To Net: Unknown Pin: Pin TIVA-J4_3
+Add Pin To Net: Unknown Pin: Pin TIVA-J4_4
+Add Pin To Net: Unknown Pin: Pin TIVA-J4_5
+Add Pin To Net: Unknown Pin: Pin TIVA-J4_6
+Add Pin To Net: Unknown Pin: Pin TIVA-J4_7
+Add Pin To Net: Unknown Pin: Pin TIVA-J4_8
+Add Pin To Net: Unknown Pin: Pin TIVA-J4_9
+Add Pin To Net: Unknown Pin: Pin TIVA-J4_10
+Added Pin To Net: NetName=NetDAC_R3_2 Pin=DAC_R3-2
+Added Pin To Net: NetName=NetDAC_R3_2 Pin=I2S DAC-13
+Added Net: Name=NetDAC_R3_2
+Added Pin To Net: NetName=NetDAC_R4_2 Pin=DAC_R4-2
+Added Pin To Net: NetName=NetDAC_R4_2 Pin=I2S DAC-14
+Added Net: Name=NetDAC_R4_2
+Added Pin To Net: NetName=NetDAC_R5_2 Pin=DAC_R5-2
+Added Pin To Net: NetName=NetDAC_R5_2 Pin=I2S DAC-15
+Added Net: Name=NetDAC_R5_2
+Added Member To Class: ClassName=PCM Member=Component DAC_R3 RK73B1JTTD221J
+Added Member To Class: ClassName=PCM Member=Component DAC_R4 RK73B1JTTD221J
+Added Member To Class: ClassName=PCM Member=Component DAC_R5 RK73B1JTTD221J
+Add Class Member: Failed to add class member : Component TIVA EK-TM4C123GXL

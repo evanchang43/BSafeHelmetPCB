@@ -1,0 +1,52 @@
+Added Component: Designator=ESP1(ESP-32-BB-Footprint-1)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found MODULE_EK-TM4C123GXL
+Add Pin To Net: Unknown Pin: Pin TIVA-J1_1
+Add Pin To Net: Unknown Pin: Pin TIVA-J1_2
+Add Pin To Net: Unknown Pin: Pin TIVA-J1_3
+Add Pin To Net: Unknown Pin: Pin TIVA-J1_4
+Add Pin To Net: Unknown Pin: Pin TIVA-J1_5
+Add Pin To Net: Unknown Pin: Pin TIVA-J1_6
+Add Pin To Net: Unknown Pin: Pin TIVA-J1_7
+Add Pin To Net: Unknown Pin: Pin TIVA-J1_8
+Add Pin To Net: Unknown Pin: Pin TIVA-J1_9
+Add Pin To Net: Unknown Pin: Pin TIVA-J1_10
+Add Pin To Net: Unknown Pin: Pin TIVA-J2_1
+Add Pin To Net: Unknown Pin: Pin TIVA-J2_2
+Add Pin To Net: Unknown Pin: Pin TIVA-J2_3
+Add Pin To Net: Unknown Pin: Pin TIVA-J2_4
+Add Pin To Net: Unknown Pin: Pin TIVA-J2_5
+Add Pin To Net: Unknown Pin: Pin TIVA-J2_6
+Add Pin To Net: Unknown Pin: Pin TIVA-J2_7
+Add Pin To Net: Unknown Pin: Pin TIVA-J2_8
+Add Pin To Net: Unknown Pin: Pin TIVA-J2_9
+Add Pin To Net: Unknown Pin: Pin TIVA-J2_10
+Add Pin To Net: Unknown Pin: Pin TIVA-J3_1
+Add Pin To Net: Unknown Pin: Pin TIVA-J3_2
+Add Pin To Net: Unknown Pin: Pin TIVA-J3_3
+Add Pin To Net: Unknown Pin: Pin TIVA-J3_4
+Add Pin To Net: Unknown Pin: Pin TIVA-J3_5
+Add Pin To Net: Unknown Pin: Pin TIVA-J3_6
+Add Pin To Net: Unknown Pin: Pin TIVA-J3_7
+Add Pin To Net: Unknown Pin: Pin TIVA-J3_8
+Add Pin To Net: Unknown Pin: Pin TIVA-J3_9
+Add Pin To Net: Unknown Pin: Pin TIVA-J3_10
+Add Pin To Net: Unknown Pin: Pin TIVA-J4_1
+Add Pin To Net: Unknown Pin: Pin TIVA-J4_2
+Add Pin To Net: Unknown Pin: Pin TIVA-J4_3
+Add Pin To Net: Unknown Pin: Pin TIVA-J4_4
+Add Pin To Net: Unknown Pin: Pin TIVA-J4_5
+Add Pin To Net: Unknown Pin: Pin TIVA-J4_6
+Add Pin To Net: Unknown Pin: Pin TIVA-J4_7
+Add Pin To Net: Unknown Pin: Pin TIVA-J4_8
+Add Pin To Net: Unknown Pin: Pin TIVA-J4_9
+Add Pin To Net: Unknown Pin: Pin TIVA-J4_10
+Added Member To Class: ClassName=MAIN_SCH Member=Component ESP1 ESP-32-BB
+Add Class Member: Failed to add class member : Component TIVA EK-TM4C123GXL
