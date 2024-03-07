@@ -1,0 +1,67 @@
+Removed Pin From Net: NetName=CRG3 Pin=CRG_R0-1
+Removed Pin From Net: NetName=CRG2 Pin=CRG_R1-1
+Removed Pin From Net: NetName=CRG1 Pin=CRG_R2-1
+Removed Pin From Net: NetName=CRG0 Pin=CRG_R3-1
+Removed Member From Class: ClassName=MAIN_SCH Member=CRG_R0
+Removed Member From Class: ClassName=MAIN_SCH Member=CRG_R1
+Removed Member From Class: ClassName=MAIN_SCH Member=CRG_R2
+Removed Member From Class: ClassName=MAIN_SCH Member=CRG_R3
+Change Component Footprint: Designator=Sensor0 Old Footprint=LV-MaxSonar-EZ-1010-Footprint-1 New Footprint=JST-SM07B-SRSS-TB_V
+Change Component Footprint: Designator=Sensor1 Old Footprint=LV-MaxSonar-EZ-1010-Footprint-1 New Footprint=JST-SM07B-SRSS-TB_V
+Change Component Comment : Designator=Sensor0 Old Comment=LV-MaxSonar-EZ-1010 New Comment=SM07B-SRSS-TB(LF)(SN)
+Change Component Comment : Designator=Sensor1 Old Comment=LV-MaxSonar-EZ-1010 New Comment=SM07B-SRSS-TB(LF)(SN)
+Change Managed Component Library Link : Designator=Sensor0 Old VaultGUID=E6AC3BD4-25A4-4748-AC67-3E04A9BAE261 New VaultGUID=E6AC3BD4-25A4-4748-AC67-3E04A9BAE261 Old ItemGUID=60517b9c-c16d-4955-8791-7d28efe3511e New ItemGUID=f3e70ed0-d542-4124-b7e0-3b77f1d5b02a Old RevisionGUID=2c677b70-851e-4b11-83ba-4a5c83cc46f8 New RevisionGUID=62cd0116-948a-404e-8574-d4f2a2f5e179
+Change Managed Component Library Link : Designator=Sensor1 Old VaultGUID=E6AC3BD4-25A4-4748-AC67-3E04A9BAE261 New VaultGUID=E6AC3BD4-25A4-4748-AC67-3E04A9BAE261 Old ItemGUID=60517b9c-c16d-4955-8791-7d28efe3511e New ItemGUID=f3e70ed0-d542-4124-b7e0-3b77f1d5b02a Old RevisionGUID=2c677b70-851e-4b11-83ba-4a5c83cc46f8 New RevisionGUID=62cd0116-948a-404e-8574-d4f2a2f5e179
+Change component parameters: Designator = "Sensor0" ("Sensor0"); Footprint = "LV-MaxSonar-EZ-1010-Footprint-1"; UniqueID = "\FWGNZIJZ" ("\FWGNZIJZ")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Type"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Sensor1" ("Sensor1"); Footprint = "LV-MaxSonar-EZ-1010-Footprint-1"; UniqueID = "\VVQLQYJG" ("\VVQLQYJG")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Type"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=CRG_R?(RESC1608X55X30LL20T10)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P?(JST-SM07B-SRSS-TB_V)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=CRG_HEADER-2
+Added Pin To Net: NetName=CRG3 Pin=CRG_HEADER-3
+Added Pin To Net: NetName=CRG2 Pin=CRG_HEADER-4
+Added Pin To Net: NetName=CRG1 Pin=CRG_HEADER-5
+Added Pin To Net: NetName=CRG0 Pin=CRG_HEADER-6
+Added Pin To Net: NetName=CRG_SWITCH Pin=CRG_HEADER-7
+Added Pin To Net: NetName=CRG_SWITCH Pin=Powerboost-4
+Added Net: Name=CRG_SWITCH
+Added Class: Name=CRG

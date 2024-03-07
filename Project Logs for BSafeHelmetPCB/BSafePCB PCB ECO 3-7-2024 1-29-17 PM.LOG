@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=GND Pin=Sensor0-3
+Removed Pin From Net: NetName=5V Pin=Sensor0-4
+Removed Pin From Net: NetName=VDistance0 Pin=Sensor0-5
+Removed Pin From Net: NetName=GND Pin=Sensor0-6
+Removed Pin From Net: NetName=GND Pin=Sensor0-7
+Removed Pin From Net: NetName=GND Pin=Sensor1-3
+Removed Pin From Net: NetName=5V Pin=Sensor1-4
+Removed Pin From Net: NetName=VDistance1 Pin=Sensor1-5
+Removed Pin From Net: NetName=GND Pin=Sensor1-6
+Removed Pin From Net: NetName=GND Pin=Sensor1-7
+Change Component Footprint: Designator=Sensor0 Old Footprint=JST-SM07B-SRSS-TB_V New Footprint=JST-SM03B-SRSS-TB_V
+Change Component Footprint: Designator=Sensor1 Old Footprint=JST-SM07B-SRSS-TB_V New Footprint=JST-SM03B-SRSS-TB_V
+Change Component Comment : Designator=Sensor0 Old Comment=SM07B-SRSS-TB(LF)(SN) New Comment=SM03B-SRSS-TB(LF)(SN)
+Change Component Comment : Designator=Sensor1 Old Comment=SM07B-SRSS-TB(LF)(SN) New Comment=SM03B-SRSS-TB(LF)(SN)
+Change Managed Component Library Link : Designator=Sensor0 Old VaultGUID=E6AC3BD4-25A4-4748-AC67-3E04A9BAE261 New VaultGUID=E6AC3BD4-25A4-4748-AC67-3E04A9BAE261 Old ItemGUID=f3e70ed0-d542-4124-b7e0-3b77f1d5b02a New ItemGUID=a8702ed0-2987-4987-81f0-6643f97f5b5c Old RevisionGUID=62cd0116-948a-404e-8574-d4f2a2f5e179 New RevisionGUID=cb98667b-9228-4fbc-a4ea-c778f46c1762
+Change Managed Component Library Link : Designator=Sensor1 Old VaultGUID=E6AC3BD4-25A4-4748-AC67-3E04A9BAE261 New VaultGUID=E6AC3BD4-25A4-4748-AC67-3E04A9BAE261 Old ItemGUID=f3e70ed0-d542-4124-b7e0-3b77f1d5b02a New ItemGUID=a8702ed0-2987-4987-81f0-6643f97f5b5c Old RevisionGUID=62cd0116-948a-404e-8574-d4f2a2f5e179 New RevisionGUID=cb98667b-9228-4fbc-a4ea-c778f46c1762
+Change component parameters: Designator = "Sensor0" ("Sensor0"); Footprint = "JST-SM07B-SRSS-TB_V"; UniqueID = "\ONRQSCLC" ("\ONRQSCLC")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Type"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Sensor1" ("Sensor1"); Footprint = "JST-SM07B-SRSS-TB_V"; UniqueID = "\JRSUBXSD" ("\JRSUBXSD")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Type"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VDistance0 Pin=Sensor0-3
+Added Pin To Net: NetName=VDistance1 Pin=Sensor1-3

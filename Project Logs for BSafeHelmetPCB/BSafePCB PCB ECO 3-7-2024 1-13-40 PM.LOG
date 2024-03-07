@@ -1,0 +1,4 @@
+Change Component DesignItemId : Designator=Powerboost Old DesignItemId=CMP-00002-2 New DesignItemId=CMP-00002-4
+Change Component Footprint: Designator=Powerboost Old Footprint=Powerboost 500c-Footprint-1 New Footprint=Powerboost 500c-Footprint-1
+Change Managed Component Library Link : Designator=Powerboost Old VaultGUID=E6AC3BD4-25A4-4748-AC67-3E04A9BAE261 New VaultGUID=E6AC3BD4-25A4-4748-AC67-3E04A9BAE261 Old ItemGUID=0f8971dc-4c24-4cb8-bd73-72fc7955fcf8 New ItemGUID=0f8971dc-4c24-4cb8-bd73-72fc7955fcf8 Old RevisionGUID=3a9b46a8-9878-440d-ac06-fa7ba8b33429 New RevisionGUID=278e5a8f-c293-4419-b095-6980bdee791c
+Added Pin To Net: NetName=5V Pin=Sensor1-4

@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=GND Pin=Sensor0-4
+Removed Pin From Net: NetName=GND Pin=Sensor1-4
+Change Component DesignItemId : Designator=TIVA Old DesignItemId=CMP-012-000000-2 New DesignItemId=CMP-012-000000-3
+Change Component Footprint: Designator=TIVA Old Footprint=EK-TM4C123GXL-Footprint-1 New Footprint=EK-TM4C123GXL-Footprint-1
+Change Footprint: Footprint Not Found MOLX-532610271_V
+Change Footprint: Footprint Not Found MOLX-532610271_V
+Change Component Designator: OldDesignator=CRG NewDesignator=CRG_HEADER
+Change Managed Component Library Link : Designator=TIVA Old VaultGUID=E6AC3BD4-25A4-4748-AC67-3E04A9BAE261 New VaultGUID=E6AC3BD4-25A4-4748-AC67-3E04A9BAE261 Old ItemGUID=44BC69BA-40FB-46A3-A9AF-0A65F4C8F214 New ItemGUID=44BC69BA-40FB-46A3-A9AF-0A65F4C8F214 Old RevisionGUID=6ad18a00-a998-4286-9e42-4e6d8ee0da24 New RevisionGUID=db364af2-444f-46aa-b959-ea6f0214045f
+Added Pin To Net: NetName=5V Pin=Sensor0-4
+Change Net Name : Old Net Name=NetCRG_3 New Net Name=NetCRG_HEADER_3
+Change Net Name : Old Net Name=NetCRG_4 New Net Name=NetCRG_HEADER_4
+Change Net Name : Old Net Name=NetCRG_5 New Net Name=NetCRG_HEADER_5
+Change Net Name : Old Net Name=NetCRG_6 New Net Name=NetCRG_HEADER_6
+Added Pin To Net: NetName=5V Pin=Sensor1-4
+Added Net: Name=5V

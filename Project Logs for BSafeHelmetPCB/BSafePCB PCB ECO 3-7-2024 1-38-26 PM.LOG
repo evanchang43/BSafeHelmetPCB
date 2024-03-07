@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=R3 NewDesignator=R2
+Change Component Designator: OldDesignator=R4 NewDesignator=R3
+Change Net Name : Old Net Name=NetR3_1 New Net Name=NetR2_1
+Change Net Name : Old Net Name=NetR4_1 New Net Name=NetR3_1
+Added Member To Class: ClassName=MAIN_SCH Member=Component R3 RK73B1JTTD221J

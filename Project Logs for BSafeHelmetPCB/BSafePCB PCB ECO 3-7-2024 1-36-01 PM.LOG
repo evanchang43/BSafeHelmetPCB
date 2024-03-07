@@ -1,0 +1,76 @@
+Removed Pin From Net: NetName=GND Pin=R2-2
+Removed Pin From Net: NetName=NetR3_1 Pin=SIGNAL_LED1-2
+Removed Member From Class: ClassName=MAIN_SCH Member=R2
+Change Component Footprint: Designator=SIGNAL_LED0 Old Footprint=LTST-C190TBKT-2_V New Footprint=FP-SM02B-SRSS-TB_LF_SN-0
+Change Component Footprint: Designator=SIGNAL_LED1 Old Footprint=LTST-C190TBKT-2_V New Footprint=FP-SM02B-SRSS-TB_LF_SN-0
+Change Component Footprint: Designator=R0 Old Footprint=RESC1608X55X30LL20T10 New Footprint=RESC1005X40X25NL05T10
+Change Component Footprint: Designator=R3 Old Footprint=RESC3116X70X50ML13T20 New Footprint=RESC1608X55X30LL20T10
+Change Component Comment : Designator=SIGNAL_LED0 Old Comment=LTST-C190TBKT New Comment=SM02B-SRSS-TB(LF)(SN)
+Change Component Comment : Designator=SIGNAL_LED1 Old Comment=LTST-C190TBKT New Comment=SM02B-SRSS-TB(LF)(SN)
+Change Component Comment : Designator=R3 Old Comment=Resistor 1k +/-1% 1206 250 mW New Comment=RK73B1JTTD221J
+Change Component Comment : Designator=R0 Old Comment=RK73B1JTTD221J New Comment=RC0402FR-07220KL
+Change Managed Component Library Link : Designator=R0 Old VaultGUID=E6AC3BD4-25A4-4748-AC67-3E04A9BAE261 New VaultGUID=E6AC3BD4-25A4-4748-AC67-3E04A9BAE261 Old ItemGUID=f8e81448-be6e-4b41-a6c7-c42988bb3c91 New ItemGUID=2df817d9-720a-4a05-9fc3-27fcd1873430 Old RevisionGUID=699b4f28-3474-41bc-bc6a-f8fa2fb42803 New RevisionGUID=acb32b2e-1144-4acc-a77f-933fbaff4c79
+Change Managed Component Library Link : Designator=R3 Old VaultGUID=E6AC3BD4-25A4-4748-AC67-3E04A9BAE261 New VaultGUID=E6AC3BD4-25A4-4748-AC67-3E04A9BAE261 Old ItemGUID=188B1CBC-F3A4-4FAF-AE9B-ECAC5A0CEA59 New ItemGUID=f8e81448-be6e-4b41-a6c7-c42988bb3c91 Old RevisionGUID=86EB874F-F6E7-4001-80FE-CE1E2CA64A8E New RevisionGUID=699b4f28-3474-41bc-bc6a-f8fa2fb42803
+Change Managed Component Library Link : Designator=SIGNAL_LED0 Old VaultGUID=E6AC3BD4-25A4-4748-AC67-3E04A9BAE261 New VaultGUID=E6AC3BD4-25A4-4748-AC67-3E04A9BAE261 Old ItemGUID=0D5DA1C6-E90E-4FD8-B1F7-70BBCCB040C3 New ItemGUID=0abb7ddc-c59e-4e94-9daa-6024911a9d73 Old RevisionGUID=F0F9B807-8B65-4F27-BA68-20D0A08F9C14 New RevisionGUID=06021e54-578e-4e71-883d-7b00aeea469d
+Change Managed Component Library Link : Designator=SIGNAL_LED1 Old VaultGUID=E6AC3BD4-25A4-4748-AC67-3E04A9BAE261 New VaultGUID=E6AC3BD4-25A4-4748-AC67-3E04A9BAE261 Old ItemGUID=0D5DA1C6-E90E-4FD8-B1F7-70BBCCB040C3 New ItemGUID=0abb7ddc-c59e-4e94-9daa-6024911a9d73 Old RevisionGUID=F0F9B807-8B65-4F27-BA68-20D0A08F9C14 New RevisionGUID=06021e54-578e-4e71-883d-7b00aeea469d
+Change component parameters: Designator = "R0" ("R0"); Footprint = "RESC1608X55X30LL20T10"; UniqueID = "\XXSZPYRA" ("\XXSZPYRA")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "220k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "RESC3116X70X50ML13T20"; UniqueID = "\POBRAISQ" ("\POBRAISQ")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "220"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "SIGNAL_LED0" ("SIGNAL_LED0"); Footprint = "LTST-C190TBKT-2_V"; UniqueID = "\HNXMZAVP" ("\HNXMZAVP")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Type"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "SIGNAL_LED1" ("SIGNAL_LED1"); Footprint = "LTST-C190TBKT-2_V"; UniqueID = "\YXWVDNZZ" ("\YXWVDNZZ")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Type"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R4(RESC1608X55X30LL20T10)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R4-2
+Added Pin To Net: NetName=NetR3_1 Pin=SIGNAL_LED0-2
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=SIGNAL_LED1-2
+Added Net: Name=NetR4_1
+Added Member To Class: ClassName=MAIN_SCH Member=Component R4 RC0402FR-0747KL
