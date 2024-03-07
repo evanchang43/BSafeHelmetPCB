@@ -1,0 +1,103 @@
+Removed Pin From Net: NetName=GND Pin=Powerboost-4
+Added Component: Designator=TIVA(EK-TM4C123GXL-Footprint-1)
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/EK-TM4C123GXL/Texas%20Instruments/view-part/132968/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Clock Frequency"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "EK-TM4C123GXL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "I/Os"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "EK-TM4C123GXL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Supply Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/EK-TM4C123GXL/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RAM Size"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/EK-TM4C123GXL/Texas%20Instruments/view-part/132968/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "EK-TM4C123GXL.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(EK-TM4C123GXL-Footprint-1)
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/EK-TM4C123GXL/Texas%20Instruments/view-part/132968/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Clock Frequency"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "EK-TM4C123GXL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "I/Os"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "EK-TM4C123GXL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Supply Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/EK-TM4C123GXL/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RAM Size"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/EK-TM4C123GXL/Texas%20Instruments/view-part/132968/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "EK-TM4C123GXL.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=TIVA-J1_1
+Added Pin To Net: NetName=GND Pin=TIVA-J1_2
+Added Pin To Net: NetName=GND Pin=TIVA-J1_3
+Added Pin To Net: NetName=GND Pin=TIVA-J1_4
+Added Pin To Net: NetName=GND Pin=TIVA-J1_5
+Added Pin To Net: NetName=GND Pin=TIVA-J1_6
+Added Pin To Net: NetName=GND Pin=TIVA-J1_7
+Added Pin To Net: NetName=GND Pin=TIVA-J1_8
+Added Pin To Net: NetName=I2C_SCL Pin=TIVA-J1_9
+Added Pin To Net: NetName=I2C_SDA Pin=TIVA-J1_10
+Added Pin To Net: NetName=GND Pin=TIVA-J2_1
+Added Pin To Net: NetName=CRASH Pin=TIVA-J2_2
+Added Pin To Net: NetName=GND Pin=TIVA-J2_3
+Added Pin To Net: NetName=GND Pin=TIVA-J2_4
+Added Pin To Net: NetName=GND Pin=TIVA-J2_5
+Added Pin To Net: NetName=GND Pin=TIVA-J2_6
+Added Pin To Net: NetName=GND Pin=TIVA-J2_7
+Added Pin To Net: NetName=GND Pin=TIVA-J2_8
+Added Pin To Net: NetName=LED1 Pin=TIVA-J2_9
+Added Pin To Net: NetName=LED0 Pin=TIVA-J2_10
+Added Pin To Net: NetName=5V Pin=TIVA-J3_1
+Added Pin To Net: NetName=GND Pin=TIVA-J3_2
+Added Pin To Net: NetName=GND Pin=TIVA-J3_3
+Added Pin To Net: NetName=GND Pin=TIVA-J3_4
+Added Pin To Net: NetName=GND Pin=TIVA-J3_5
+Added Pin To Net: NetName=GND Pin=TIVA-J3_6
+Added Pin To Net: NetName=GND Pin=TIVA-J3_7
+Added Pin To Net: NetName=VDistance0 Pin=TIVA-J3_8
+Added Pin To Net: NetName=VDistance1 Pin=TIVA-J3_9
+Added Pin To Net: NetName=GND Pin=TIVA-J3_10
+Added Pin To Net: NetName=GND Pin=TIVA-J4_1
+Added Pin To Net: NetName=GND Pin=TIVA-J4_2
+Added Pin To Net: NetName=GND Pin=TIVA-J4_3
+Added Pin To Net: NetName=GND Pin=TIVA-J4_4
+Added Pin To Net: NetName=GND Pin=TIVA-J4_5
+Added Pin To Net: NetName=GND Pin=TIVA-J4_6
+Added Pin To Net: NetName=GND Pin=TIVA-J4_7
+Added Pin To Net: NetName=GND Pin=TIVA-J4_8
+Added Pin To Net: NetName=GND Pin=TIVA-J4_9
+Added Pin To Net: NetName=GND Pin=TIVA-J4_10
+Added Pin To Net: NetName=BAT Pin=U?-J1_6
+Added Pin To Net: NetName=GND Pin=U?-J4_2
+Added Member To Class: ClassName=MAIN_SCH Member=Component TIVA EK-TM4C123GXL
+Added Member To Class: ClassName=MAIN_SCH Member=Component U? EK-TM4C123GXL

@@ -1,0 +1,13 @@
+Remove Pin=CRG-2 From Net=GND
+Change Component Footprint: Designator=SPEAKER_L Old Footprint=FP-SM02B-SRSS-TB_LF_SN-0 New Footprint=MOLX-532610271_V
+Change Component Footprint: Designator=SPEAKER_R Old Footprint=FP-SM02B-SRSS-TB_LF_SN-0 New Footprint=MOLX-532610271_V
+Change Component Comment: Designator=SPEAKER_L Old Comment=SM02B-SRSS-TB(LF)(SN) New Comment=0532610271
+Change Component Comment: Designator=SPEAKER_R Old Comment=SM02B-SRSS-TB(LF)(SN) New Comment=0532610271
+Change Pin Designator/Name:  Old Designator=SPEAKER_L-1 Old Name=1 New Designator =MNT 1 New Name=3
+Change Pin Designator/Name:  Old Designator=SPEAKER_L-2 Old Name=2 New Designator =MNT 2 New Name=4
+Change Pin Designator/Name:  Old Designator=SPEAKER_L-3 Old Name=MNT 1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=SPEAKER_L-4 Old Name=MNT 2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=SPEAKER_R-1 Old Name=1 New Designator =MNT 1 New Name=3
+Change Pin Designator/Name:  Old Designator=SPEAKER_R-2 Old Name=2 New Designator =MNT 2 New Name=4
+Change Pin Designator/Name:  Old Designator=SPEAKER_R-3 Old Name=MNT 1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=SPEAKER_R-4 Old Name=MNT 2 New Designator =1 New Name=1

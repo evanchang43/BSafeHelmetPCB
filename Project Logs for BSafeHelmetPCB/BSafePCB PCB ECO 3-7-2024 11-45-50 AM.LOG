@@ -1,0 +1,56 @@
+Removed Pin From Net: NetName=CRG_BUTT Pin=CRG_HEADER-1
+Removed Pin From Net: NetName=GND Pin=CRG_HEADER-2
+Removed Member From Class: ClassName=MAIN_SCH Member=CRG_HEADER
+Change Footprint: Footprint Not Found MOLX-532610271_V
+Change Footprint: Footprint Not Found MOLX-532610271_V
+Change Managed Component Library Link : Designator=SPEAKER_L Old VaultGUID=E6AC3BD4-25A4-4748-AC67-3E04A9BAE261 New VaultGUID=E6AC3BD4-25A4-4748-AC67-3E04A9BAE261 Old ItemGUID=E5EA2175-4CAA-4D9A-9B75-DBB3A27B7AC7 New ItemGUID=0abb7ddc-c59e-4e94-9daa-6024911a9d73 Old RevisionGUID=49D5BEC4-0E85-4A42-88D3-612DF28BECA7 New RevisionGUID=06021e54-578e-4e71-883d-7b00aeea469d
+Change Managed Component Library Link : Designator=SPEAKER_R Old VaultGUID=E6AC3BD4-25A4-4748-AC67-3E04A9BAE261 New VaultGUID=E6AC3BD4-25A4-4748-AC67-3E04A9BAE261 Old ItemGUID=E5EA2175-4CAA-4D9A-9B75-DBB3A27B7AC7 New ItemGUID=0abb7ddc-c59e-4e94-9daa-6024911a9d73 Old RevisionGUID=49D5BEC4-0E85-4A42-88D3-612DF28BECA7 New RevisionGUID=06021e54-578e-4e71-883d-7b00aeea469d
+Change component parameters: Designator = "SPEAKER_L" ("SPEAKER_L"); Footprint = "MOLX-532610271_V"; UniqueID = "\LVAFSULC" ("\LVAFSULC")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Type"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "SPEAKER_R" ("SPEAKER_R"); Footprint = "MOLX-532610271_V"; UniqueID = "\RWLYBJGM" ("\RWLYBJGM")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Type"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=CRG(JST-SM07B-SRSS-TB_V)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CRG_BUTT Pin=CRG-1
+Added Pin To Net: NetName=CRG_SWICH Pin=CRG-7
+Added Net: Name=CRG_SWICH
+Added Pin To Net: NetName=NetCRG_3 Pin=CRG-3
+Added Pin To Net: NetName=NetCRG_3 Pin=CRG_R0-2
+Added Net: Name=NetCRG_3
+Added Pin To Net: NetName=NetCRG_4 Pin=CRG-4
+Added Pin To Net: NetName=NetCRG_4 Pin=CRG_R1-2
+Added Net: Name=NetCRG_4
+Added Pin To Net: NetName=NetCRG_5 Pin=CRG-5
+Added Pin To Net: NetName=NetCRG_5 Pin=CRG_R2-2
+Added Net: Name=NetCRG_5
+Added Pin To Net: NetName=NetCRG_6 Pin=CRG-6
+Added Pin To Net: NetName=NetCRG_6 Pin=CRG_R3-2
+Added Net: Name=NetCRG_6
+Added Member To Class: ClassName=MAIN_SCH Member=Component CRG SM07B-SRSS-TB(LF)(SN)
