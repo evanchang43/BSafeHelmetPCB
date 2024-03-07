@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=CRG_HEADER-1
+Removed Pin From Net: NetName=CRG3 Pin=CRG_HEADER-2
+Removed Pin From Net: NetName=CRG2 Pin=CRG_HEADER-3
+Removed Pin From Net: NetName=CRG1 Pin=CRG_HEADER-4
+Removed Pin From Net: NetName=CRG0 Pin=CRG_HEADER-5
+Removed Pin From Net: NetName=CRG_BUTT Pin=CRG_HEADER-6
+Removed Pin From Net: NetName=CRG_SWITCH Pin=CRG_HEADER-7
+Added Pin To Net: NetName=CRG_SWITCH Pin=CRG_HEADER-1
+Added Pin To Net: NetName=GND Pin=CRG_HEADER-2
+Added Pin To Net: NetName=CRG3 Pin=CRG_HEADER-3
+Added Pin To Net: NetName=CRG2 Pin=CRG_HEADER-4
+Added Pin To Net: NetName=CRG1 Pin=CRG_HEADER-5
+Added Pin To Net: NetName=CRG0 Pin=CRG_HEADER-6
+Added Pin To Net: NetName=CRG_BUTT Pin=CRG_HEADER-7
