@@ -1,0 +1,54 @@
+Change Component DesignItemId : Designator=AREG_C1 Old DesignItemId=CMP-001-00089-5 New DesignItemId=CMP-001-00089-6
+Change Component DesignItemId : Designator=AREG_C2 Old DesignItemId=CMP-001-00089-5 New DesignItemId=CMP-001-00089-6
+Change Component DesignItemId : Designator=DREG_C1 Old DesignItemId=CMP-001-00089-5 New DesignItemId=CMP-001-00089-6
+Change Component DesignItemId : Designator=DREG_C2 Old DesignItemId=CMP-001-00089-5 New DesignItemId=CMP-001-00089-6
+Change Component Footprint: Designator=AREG_C1 Old Footprint=CAP_CL05_SAM New Footprint=CAP_CL05_SAM
+Change Component Footprint: Designator=AREG_C2 Old Footprint=CAP_CL05_SAM New Footprint=CAP_CL05_SAM
+Change Component Footprint: Designator=DREG_C1 Old Footprint=CAP_CL05_SAM New Footprint=CAP_CL05_SAM
+Change Component Footprint: Designator=DREG_C2 Old Footprint=CAP_CL05_SAM New Footprint=CAP_CL05_SAM
+Change Managed Component Library Link : Designator=AREG_C1 Old VaultGUID=E6AC3BD4-25A4-4748-AC67-3E04A9BAE261 New VaultGUID=E6AC3BD4-25A4-4748-AC67-3E04A9BAE261 Old ItemGUID=3E6498D9-D30D-4F49-8A84-27CFBB95EE8E New ItemGUID=3E6498D9-D30D-4F49-8A84-27CFBB95EE8E Old RevisionGUID=3aaab477-fb20-4d91-ac61-016e0494b3d0 New RevisionGUID=53871b4f-3741-4866-9eb2-a50835cf90a2
+Change Managed Component Library Link : Designator=AREG_C2 Old VaultGUID=E6AC3BD4-25A4-4748-AC67-3E04A9BAE261 New VaultGUID=E6AC3BD4-25A4-4748-AC67-3E04A9BAE261 Old ItemGUID=3E6498D9-D30D-4F49-8A84-27CFBB95EE8E New ItemGUID=3E6498D9-D30D-4F49-8A84-27CFBB95EE8E Old RevisionGUID=3aaab477-fb20-4d91-ac61-016e0494b3d0 New RevisionGUID=53871b4f-3741-4866-9eb2-a50835cf90a2
+Change Managed Component Library Link : Designator=DREG_C1 Old VaultGUID=E6AC3BD4-25A4-4748-AC67-3E04A9BAE261 New VaultGUID=E6AC3BD4-25A4-4748-AC67-3E04A9BAE261 Old ItemGUID=3E6498D9-D30D-4F49-8A84-27CFBB95EE8E New ItemGUID=3E6498D9-D30D-4F49-8A84-27CFBB95EE8E Old RevisionGUID=3aaab477-fb20-4d91-ac61-016e0494b3d0 New RevisionGUID=53871b4f-3741-4866-9eb2-a50835cf90a2
+Change Managed Component Library Link : Designator=DREG_C2 Old VaultGUID=E6AC3BD4-25A4-4748-AC67-3E04A9BAE261 New VaultGUID=E6AC3BD4-25A4-4748-AC67-3E04A9BAE261 Old ItemGUID=3E6498D9-D30D-4F49-8A84-27CFBB95EE8E New ItemGUID=3E6498D9-D30D-4F49-8A84-27CFBB95EE8E Old RevisionGUID=3aaab477-fb20-4d91-ac61-016e0494b3d0 New RevisionGUID=53871b4f-3741-4866-9eb2-a50835cf90a2
+Add Component: Footprint Not Found MODULE_EK-TM4C123GXL
+Add Pin To Net: Unknown Pin: Pin TIVA-J1_1
+Add Pin To Net: Unknown Pin: Pin TIVA-J1_2
+Add Pin To Net: Unknown Pin: Pin TIVA-J1_3
+Add Pin To Net: Unknown Pin: Pin TIVA-J1_4
+Add Pin To Net: Unknown Pin: Pin TIVA-J1_5
+Add Pin To Net: Unknown Pin: Pin TIVA-J1_6
+Add Pin To Net: Unknown Pin: Pin TIVA-J1_7
+Add Pin To Net: Unknown Pin: Pin TIVA-J1_8
+Add Pin To Net: Unknown Pin: Pin TIVA-J1_9
+Add Pin To Net: Unknown Pin: Pin TIVA-J1_10
+Add Pin To Net: Unknown Pin: Pin TIVA-J2_1
+Add Pin To Net: Unknown Pin: Pin TIVA-J2_2
+Add Pin To Net: Unknown Pin: Pin TIVA-J2_3
+Add Pin To Net: Unknown Pin: Pin TIVA-J2_4
+Add Pin To Net: Unknown Pin: Pin TIVA-J2_5
+Add Pin To Net: Unknown Pin: Pin TIVA-J2_6
+Add Pin To Net: Unknown Pin: Pin TIVA-J2_7
+Add Pin To Net: Unknown Pin: Pin TIVA-J2_8
+Add Pin To Net: Unknown Pin: Pin TIVA-J2_9
+Add Pin To Net: Unknown Pin: Pin TIVA-J2_10
+Add Pin To Net: Unknown Pin: Pin TIVA-J3_1
+Add Pin To Net: Unknown Pin: Pin TIVA-J3_2
+Add Pin To Net: Unknown Pin: Pin TIVA-J3_3
+Add Pin To Net: Unknown Pin: Pin TIVA-J3_4
+Add Pin To Net: Unknown Pin: Pin TIVA-J3_5
+Add Pin To Net: Unknown Pin: Pin TIVA-J3_6
+Add Pin To Net: Unknown Pin: Pin TIVA-J3_7
+Add Pin To Net: Unknown Pin: Pin TIVA-J3_8
+Add Pin To Net: Unknown Pin: Pin TIVA-J3_9
+Add Pin To Net: Unknown Pin: Pin TIVA-J3_10
+Add Pin To Net: Unknown Pin: Pin TIVA-J4_1
+Add Pin To Net: Unknown Pin: Pin TIVA-J4_2
+Add Pin To Net: Unknown Pin: Pin TIVA-J4_3
+Add Pin To Net: Unknown Pin: Pin TIVA-J4_4
+Add Pin To Net: Unknown Pin: Pin TIVA-J4_5
+Add Pin To Net: Unknown Pin: Pin TIVA-J4_6
+Add Pin To Net: Unknown Pin: Pin TIVA-J4_7
+Add Pin To Net: Unknown Pin: Pin TIVA-J4_8
+Add Pin To Net: Unknown Pin: Pin TIVA-J4_9
+Add Pin To Net: Unknown Pin: Pin TIVA-J4_10
+Add Class Member: Failed to add class member : Component TIVA EK-TM4C123GXL
