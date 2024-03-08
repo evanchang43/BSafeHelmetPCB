@@ -1,0 +1,4 @@
+Change Component DesignItemId : Designator=SW1 Old DesignItemId=CMP-011-00006-2 New DesignItemId=CMP-011-00006-3
+Change Component Footprint: Designator=SW1 Old Footprint=ESWI-EG1218_V New Footprint=ESWI-EG1218_V
+Change Managed Component Library Link : Designator=SW1 Old VaultGUID=E6AC3BD4-25A4-4748-AC67-3E04A9BAE261 New VaultGUID=E6AC3BD4-25A4-4748-AC67-3E04A9BAE261 Old ItemGUID=747DAB25-FC84-4782-9645-D23237C2EBBD New ItemGUID=747DAB25-FC84-4782-9645-D23237C2EBBD Old RevisionGUID=C53E06AF-E9FB-43A5-8577-05E6CB7989BB New RevisionGUID=9e8e8aac-6964-4bd0-aa58-73cbbbbfcaa8
+Added Room: Name=CRG

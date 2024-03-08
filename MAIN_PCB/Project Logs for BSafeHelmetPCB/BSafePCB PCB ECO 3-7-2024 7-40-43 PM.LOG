@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=CRG_SWITCH Pin=CRG_HEADER-1
+Removed Pin From Net: NetName=GND Pin=CRG_HEADER-2
+Removed Pin From Net: NetName=CRG3 Pin=CRG_HEADER-3
+Removed Pin From Net: NetName=CRG2 Pin=CRG_HEADER-4
+Removed Pin From Net: NetName=CRG1 Pin=CRG_HEADER-5
+Removed Pin From Net: NetName=CRG0 Pin=CRG_HEADER-6
+Removed Pin From Net: NetName=CRG_BUTT Pin=CRG_HEADER-7
+Removed Pin From Net: NetName=5V Pin=R4-1
+Removed Pin From Net: NetName=CRG_BUTT Pin=R4-2
+Removed Pin From Net: NetName=GND Pin=TIVA-J1_1
+Removed Member From Class: ClassName=MAIN_SCH Member=R4
+Change Component Footprint: Designator=CRG_HEADER Old Footprint=JST-SM07B-SRSS-TB_V New Footprint=JST-SM08B-SRSS-TB_V
+Change Component Comment : Designator=CRG_HEADER Old Comment=SM07B-SRSS-TB(LF)(SN) New Comment=SM08B-SRSS-TB(LF)(SN)
+Change Managed Component Library Link : Designator=CRG_HEADER Old VaultGUID=E6AC3BD4-25A4-4748-AC67-3E04A9BAE261 New VaultGUID=E6AC3BD4-25A4-4748-AC67-3E04A9BAE261 Old ItemGUID=f3e70ed0-d542-4124-b7e0-3b77f1d5b02a New ItemGUID=53a86f7f-0d12-49a3-94ab-1daaf725e44a Old RevisionGUID=62cd0116-948a-404e-8574-d4f2a2f5e179 New RevisionGUID=756f1f98-1a68-4713-9a4e-38d8d7351a0e
+Change component parameters: Designator = "CRG_HEADER" ("CRG_HEADER"); Footprint = "JST-SM07B-SRSS-TB_V"; UniqueID = "\FQODEXIT" ("\FQODEXIT")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Type"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=CRG_HEADER-1
+Added Pin To Net: NetName=CRG_SWITCH Pin=CRG_HEADER-2
+Added Pin To Net: NetName=GND Pin=CRG_HEADER-3
+Added Pin To Net: NetName=CRG3 Pin=CRG_HEADER-4
+Added Pin To Net: NetName=CRG2 Pin=CRG_HEADER-5
+Added Pin To Net: NetName=CRG1 Pin=CRG_HEADER-6
+Added Pin To Net: NetName=CRG0 Pin=CRG_HEADER-7
+Added Pin To Net: NetName=CRG_BUTT Pin=CRG_HEADER-8

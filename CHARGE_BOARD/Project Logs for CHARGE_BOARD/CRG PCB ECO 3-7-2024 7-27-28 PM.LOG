@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=CRG_BUTT Pin=SW0-4
+Added Pin To Net: NetName=CRG_BUTT Pin=R4-2
+Added Pin To Net: NetName=CRG_BUTT Pin=SW0-3
+Added Room: Name=CRG

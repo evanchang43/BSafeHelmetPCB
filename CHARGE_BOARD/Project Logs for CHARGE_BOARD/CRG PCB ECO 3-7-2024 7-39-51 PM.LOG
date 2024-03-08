@@ -1,0 +1,16 @@
+Change Component Designator: OldDesignator= NewDesignator=SW0
+Added Component: Designator=CRG_HEADER2(FP-BM08B-SRSS-TBT_LF_SN-MFG)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CRG_BUTT Pin=CRG_HEADER2-1
+Added Pin To Net: NetName=5V Pin=CRG_HEADER2-8
+Added Member To Class: ClassName=CRG Member=Component CRG_HEADER2 BM08B-SRSS-TBT(LF)(SN)
+Added Room: Name=CRG
