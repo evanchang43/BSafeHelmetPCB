@@ -1,0 +1,2 @@
+Remove Pin=TIVA-J2_5 From Net=5V
+Add Pin To Net: Pin=TIVA-J2_5 Old Net=5V New Net=N/C
