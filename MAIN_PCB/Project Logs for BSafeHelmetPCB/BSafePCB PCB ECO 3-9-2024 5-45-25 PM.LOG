@@ -1,0 +1,16 @@
+Added Pin To Net: NetName=GND Pin=+5V to -5V-2
+Added Pin To Net: NetName=GND Pin=AMP_C3-1
+Added Pin To Net: NetName=GND Pin=AMP_C4-1
+Added Pin To Net: NetName=GND Pin=AMP_C5-2
+Added Pin To Net: NetName=GND Pin=AMP_C6-2
+Added Pin To Net: NetName=GND Pin=Analog 3.3V Regulator-2
+Added Pin To Net: NetName=GND Pin=AREG_C1-1
+Added Pin To Net: NetName=GND Pin=AREG_C2-1
+Added Pin To Net: NetName=GND Pin=Audio AMP-10
+Added Pin To Net: NetName=GND Pin=Audio AMP-15
+Added Pin To Net: NetName=GND Pin=DAC_C4-2
+Added Pin To Net: NetName=GND Pin=DAC_C5-2
+Added Pin To Net: NetName=GND Pin=DAC_C8-2
+Added Pin To Net: NetName=GND Pin=DAC_C9-1
+Added Pin To Net: NetName=GND Pin=I2S DAC-9
+Change Net Name : Old Net Name=GND New Net Name=AGND

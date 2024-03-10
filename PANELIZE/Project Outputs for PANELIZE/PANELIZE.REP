@@ -2,38 +2,46 @@
 FileName = PANELIZE.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Overlay
-      File : PANELIZE.GTO
+Generating : Bottom Pad Master
+      File : PANELIZE.GPB
 
-    Adding Layer      : Top Overlay
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+    Adding Layer      : Board Shape
 
 
 Used DCodes :
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
+    D31
+    D32
+    D33
+    D34
+    D35
+    D38
+    D39
+    D40
+    D41
+    D42
 *************************************************************
 
 *************************************************************
-Generating : Top Paste
-      File : PANELIZE.GTP
-
-    Adding Layer      : Top Paste
+Generating : Top Pad Master
+      File : PANELIZE.GPT
 
     Adding Layer      : Top Layer
 
     Adding Layer      : Multi-Layer
 
+    Adding Layer      : Board Shape
+
 
 Used DCodes :
+    D10
     D11
-    D12
+    D13
     D14
-    D15
+    D16
     D17
     D18
     D19
@@ -51,114 +59,40 @@ Used DCodes :
     D31
     D32
     D33
+    D34
+    D35
+    D38
+    D39
+    D40
+    D41
 *************************************************************
 
 *************************************************************
-Generating : Top Solder
-      File : PANELIZE.GTS
+Generating : Bottom Layer
+      File : PANELIZE.GBL
 
-    Adding Layer      : Top Solder
+    Adding Layer      : Bottom Layer
 
-    Adding Layer      : Top Layer
+    Adding Layer      : Board Shape
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D11
     D12
-    D17
-    D18
-    D20
-    D21
-    D22
-    D23
-    D24
-    D26
-    D27
-    D28
-    D30
+    D15
     D31
     D32
     D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
     D42
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : PANELIZE.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D42
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
-    D66
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : PANELIZE.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D43
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : PANELIZE.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D13
-    D45
-    D46
-    D67
-*************************************************************
-
-*************************************************************
-Generating : Profile
-      File : PANELIZE.GM
-
-
-Used DCodes :
-    D68
 *************************************************************
 
 *************************************************************
@@ -166,6 +100,8 @@ Generating : Top Layer
       File : PANELIZE.GTL
 
     Adding Layer      : Top Layer
+
+    Adding Layer      : Board Shape
 
     Adding Layer      : Multi-Layer
 
@@ -203,12 +139,119 @@ Used DCodes :
     D39
     D40
     D41
-    D42
 *************************************************************
 
 *************************************************************
-Generating : Bottom Layer
-      File : PANELIZE.GBL
+Generating : Top Overlay
+      File : PANELIZE.GTO
+
+    Adding Layer      : Top Overlay
+
+    Adding Layer      : Board Shape
+
+
+Used DCodes :
+    D31
+    D32
+    D43
+    D44
+    D45
+    D46
+    D47
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : PANELIZE.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Board Shape
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D13
+    D14
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : PANELIZE.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Board Shape
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D16
+    D17
+    D19
+    D20
+    D21
+    D22
+    D23
+    D25
+    D26
+    D27
+    D29
+    D30
+    D31
+    D32
+    D41
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : PANELIZE.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Board Shape
 
     Adding Layer      : Bottom Layer
 
@@ -216,17 +259,481 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D13
-    D16
+    D31
+    D32
+    D41
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : PANELIZE.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Board Shape
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D31
+    D32
+    D42
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : PANELIZE.GBO
+
+    Adding Layer      : Bottom Overlay
+
+    Adding Layer      : Board Shape
+
+
+Used DCodes :
+    D12
+    D31
+    D32
+    D44
+    D64
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : PANELIZE.GM1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Board Shape
+
+
+Used DCodes :
+    D12
+    D15
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Board Shape
+      File : PANELIZE.GM2
+
+    Adding Layer      : Board Shape
+
+    Adding Layer      : Board Shape
+
+
+Used DCodes :
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 3
+      File : PANELIZE.GM3
+
+    Adding Layer      : Mechanical 3
+
+    Adding Layer      : Board Shape
+
+
+Used DCodes :
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 4
+      File : PANELIZE.GM4
+
+    Adding Layer      : Mechanical 4
+
+    Adding Layer      : Board Shape
+
+
+Used DCodes :
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 5
+      File : PANELIZE.GM5
+
+    Adding Layer      : Mechanical 5
+
+    Adding Layer      : Board Shape
+
+
+Used DCodes :
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 6
+      File : PANELIZE.GM6
+
+    Adding Layer      : Mechanical 6
+
+    Adding Layer      : Board Shape
+
+
+Used DCodes :
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 7
+      File : PANELIZE.GM7
+
+    Adding Layer      : Mechanical 7
+
+    Adding Layer      : Board Shape
+
+
+Used DCodes :
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 8
+      File : PANELIZE.GM8
+
+    Adding Layer      : Mechanical 8
+
+    Adding Layer      : Board Shape
+
+
+Used DCodes :
+    D31
+    D32
+    D43
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 9
+      File : PANELIZE.GM9
+
+    Adding Layer      : Mechanical 9
+
+    Adding Layer      : Board Shape
+
+
+Used DCodes :
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : PANELIZE.GM13
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Board Shape
+
+
+Used DCodes :
+    D31
+    D32
+    D43
+    D47
+    D65
+    D66
+    D67
+    D68
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : PANELIZE.GM15
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Board Shape
+
+
+Used DCodes :
+    D31
+    D32
+    D43
+    D46
+    D69
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 16
+      File : PANELIZE.GM16
+
+    Adding Layer      : Mechanical 16
+
+    Adding Layer      : Board Shape
+
+
+Used DCodes :
+    D31
+    D32
+    D43
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 20
+      File : PANELIZE.GM20
+
+    Adding Layer      : Mechanical 20
+
+    Adding Layer      : Board Shape
+
+
+Used DCodes :
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 21
+      File : PANELIZE.GM21
+
+    Adding Layer      : Mechanical 21
+
+    Adding Layer      : Board Shape
+
+
+Used DCodes :
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 23
+      File : PANELIZE.GM23
+
+    Adding Layer      : Mechanical 23
+
+    Adding Layer      : Board Shape
+
+
+Used DCodes :
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 24
+      File : PANELIZE.GM24
+
+    Adding Layer      : Mechanical 24
+
+    Adding Layer      : Board Shape
+
+
+Used DCodes :
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 10
+      File : PANELIZE.GM10
+
+    Adding Layer      : Mechanical 10
+
+    Adding Layer      : Board Shape
+
+
+Used DCodes :
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 11
+      File : PANELIZE.GM11
+
+    Adding Layer      : Mechanical 11
+
+    Adding Layer      : Board Shape
+
+
+Used DCodes :
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 12
+      File : PANELIZE.GM12
+
+    Adding Layer      : Mechanical 12
+
+    Adding Layer      : Board Shape
+
+
+Used DCodes :
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 14
+      File : PANELIZE.GM14
+
+    Adding Layer      : Mechanical 14
+
+    Adding Layer      : Board Shape
+
+
+Used DCodes :
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 17
+      File : PANELIZE.GM17
+
+    Adding Layer      : Mechanical 17
+
+    Adding Layer      : Board Shape
+
+
+Used DCodes :
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 18
+      File : PANELIZE.GM18
+
+    Adding Layer      : Mechanical 18
+
+    Adding Layer      : Board Shape
+
+
+Used DCodes :
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 19
+      File : PANELIZE.GM19
+
+    Adding Layer      : Mechanical 19
+
+    Adding Layer      : Board Shape
+
+
+Used DCodes :
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : PANELIZE.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+    Adding Layer      : Board Shape
+
+
+Used DCodes :
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Dielectric 1
+      File : PANELIZE.1
+
+    Adding Layer      : Dielectric 1
+
+    Adding Layer      : Board Shape
+
+
+Used DCodes :
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Multi-Layer
+      File : PANELIZE.GML
+
+    Adding Layer      : Multi-Layer
+
+    Adding Layer      : Board Shape
+
+
+Used DCodes :
+    D31
+    D32
+    D33
     D34
     D35
-    D36
-    D37
     D38
     D39
     D40
     D41
-    D42
-    D43
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : PANELIZE.GD1
+
+    Adding Layer      : Board Shape
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D31
+    D32
+    D47
+    D70
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : PANELIZE.GG1
+
+    Adding Layer      : Board Shape
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D31
+    D32
+    D47
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : PANELIZE.GM
+
+
+Used DCodes :
+    D71
 *************************************************************
 
