@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=AGND Pin=+5V to -5V-2
+Removed Pin From Net: NetName=AGND Pin=AMP_C3-1
+Removed Pin From Net: NetName=AGND Pin=AMP_C4-1
+Removed Pin From Net: NetName=AGND Pin=AMP_C5-2
+Removed Pin From Net: NetName=AGND Pin=AMP_C6-2
+Removed Pin From Net: NetName=AGND Pin=Analog 3.3V Regulator-2
+Removed Pin From Net: NetName=AGND Pin=AREG_C1-1
+Removed Pin From Net: NetName=AGND Pin=AREG_C2-1
+Removed Pin From Net: NetName=AGND Pin=Audio AMP-10
+Removed Pin From Net: NetName=AGND Pin=Audio AMP-15
+Removed Pin From Net: NetName=AGND Pin=DAC_C4-2
+Removed Pin From Net: NetName=AGND Pin=DAC_C5-2
+Removed Pin From Net: NetName=AGND Pin=DAC_C8-2
+Removed Pin From Net: NetName=AGND Pin=DAC_C9-1
+Removed Pin From Net: NetName=AGND Pin=I2S DAC-9
+Change Net Name : Old Net Name=AGND New Net Name=GND
+Added Pin To Net: NetName=AGND Pin=+5V to -5V-2
+Added Pin To Net: NetName=AGND Pin=AMP_C3-1
+Added Pin To Net: NetName=AGND Pin=AMP_C4-1
+Added Pin To Net: NetName=AGND Pin=AMP_C5-2
+Added Pin To Net: NetName=AGND Pin=AMP_C6-2
+Added Pin To Net: NetName=AGND Pin=Analog 3.3V Regulator-2
+Added Pin To Net: NetName=AGND Pin=AREG_C1-1
+Added Pin To Net: NetName=AGND Pin=AREG_C2-1
+Added Pin To Net: NetName=AGND Pin=Audio AMP-10
+Added Pin To Net: NetName=AGND Pin=Audio AMP-15
+Added Pin To Net: NetName=AGND Pin=DAC_C4-2
+Added Pin To Net: NetName=AGND Pin=DAC_C5-2
+Added Pin To Net: NetName=AGND Pin=DAC_C8-2
+Added Pin To Net: NetName=AGND Pin=DAC_C9-1
+Added Pin To Net: NetName=AGND Pin=I2S DAC-9
+Added Net: Name=AGND
